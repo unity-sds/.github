@@ -4,6 +4,8 @@ Unity-SDS is a new approach to science data systems. Unity-SDS strives to bring 
 
 For detailed documentation, [checkout our gitbook](https://unity-sds.gitbook.io/docs/)!
 
+For status of best practices in software development we're leveraging, checkout our [SLIM Best Practices Leaderboard](https://github.com/NASA-AMMOS/slim-leaderboard/blob/main/examples/slim-unity-leaderboard.md)
+
 # Have an issue?
 
 To simplyfiy and centralize the issue process, please create an issue [here](https://github.com/unity-sds/issue-triage/issues)
